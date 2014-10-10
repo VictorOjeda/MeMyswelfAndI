@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MeMyselfAndI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="low_standard">Use standard size</string>
+    <string name="standard_low">Use low size</string>
+</resources>

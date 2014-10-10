@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item android:id="@+id/low_to_standard"
+        android:title="@string/low_standard"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/standard_to_low"
+        android:title="@string/standard_low"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>
